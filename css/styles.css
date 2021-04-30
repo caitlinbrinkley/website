@@ -1,0 +1,92 @@
+body {
+    font-size: 15px;
+    font-family: 'Courier New', monospace;
+    color: #010203;
+    background-color: #f8ebeb;
+}
+
+/** HEADER **/
+#header-nav {
+    background-color: #f29eab;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav button {
+    margin-top: 22px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #f8ebeb;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 70px;
+    height: 70px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: #080808;
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 2px 2px 2px #fffafa;
+}
+
+#nav-list {
+    background-color: #fcd4d6;
+}
+
+#nav-list a {
+    /*text-align: center;*/
+    font-weight: bolder;
+    color: #100c08;
+    font-size: 1.6em;
+}
+
+#nav-list a:hover {
+    color: #010203;
+    background-color: #e59e9d;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #c96d6b;
+}
+/** END HEADER */
+
+/** HOME PAGE **/
+#main-content {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#chicken-tile, #beef-tile, #sushi-tile {
+    width: 100%;
+    padding: 20px;
+    background-color: #fffafa;
+    margin-bottom: 45px;
+    box-shadow: 0 0 50px #c1c1c1;
+}
+/** END HOME PAGE **/
