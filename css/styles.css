@@ -2,12 +2,12 @@ body {
     font-size: 15px;
     font-family: 'Courier New', monospace;
     color: #010203;
-    background-color: #f8ebeb;
+    background-color: #F6F0EB;
 }
 
 /** HEADER **/
 #header-nav {
-    background-color: #f29eab;
+    background-color: #373741;
     border-radius: 0;
     border: 0;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #f8ebeb;
+    background-color: #e1d8cf;
 }
 
 .navbar-collapse {
@@ -43,7 +43,7 @@ body {
 }
 
 #nav-list {
-    background-color: #fcd4d6;
+    background-color: #F6F0EB;
 }
 
 #nav-list a {
@@ -54,7 +54,7 @@ body {
 }
 
 #nav-list a:hover {
-    color: #010203;
+    color: #d4af37;
     background-color: #e59e9d;
 }
 
@@ -82,7 +82,7 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#about-tile, #ex-title, #ed-tile, #proj-tile {
     width: 100%;
     padding: 20px;
     background-color: #fffafa;
