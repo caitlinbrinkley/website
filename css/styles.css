@@ -27,7 +27,7 @@ body {
 .navbar-brand, .navbar-nav li a {
     line-height: 70px;
     height: 70px;
-    padding-top: 0;
+    padding-top: 20;
 }
 
 .navbar-brand h1 {
@@ -37,7 +37,7 @@ body {
   text-transform: uppercase;
   font-weight: bold;
   margin-top: 20;
-  margin-bottom: 0;
+  margin-bottom: 20;
   line-height: .75;
 }
 
