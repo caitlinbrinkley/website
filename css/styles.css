@@ -1,6 +1,6 @@
 body {
-    font-size: 15px;
-    font-family: 'Courier New', monospace;
+    font-size: 16px;
+    font-family: 'Oxygen', sans-serif;
     color: #010203;
     background-color: #F6F0EB;
 }
@@ -31,10 +31,14 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #080808;
-    font-family: 'Lobster', cursive;
-    font-weight: bolder;
-    font-size: 1.8em;
+  font-family: 'Lora', serif;
+  color: #e1d8cf;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
 }
 
 .navbar-brand a:hover {
@@ -49,17 +53,17 @@ body {
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #100c08;
+    color: #d4af37;
     font-size: 1.6em;
 }
 
 #nav-list a:hover {
     color: #d4af37;
-    background-color: #e59e9d;
+    background-color: #F6F0EB;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #c96d6b;
+    border: 1px solid #d4af37;
 }
 /** END HEADER */
 
@@ -85,7 +89,7 @@ body {
 #about-tile, #ex-title, #ed-tile, #proj-tile {
     width: 100%;
     padding: 20px;
-    background-color: #fffafa;
+    background-color: #Ee1d8cf;
     margin-bottom: 45px;
     box-shadow: 0 0 50px #c1c1c1;
 }
