@@ -27,7 +27,7 @@ body {
 .navbar-brand, .navbar-nav li a {
     line-height: 70px;
     height: 70px;
-    padding-top: 20;
+    padding-top: 0;
 }
 
 .navbar-brand h1 {
@@ -86,7 +86,7 @@ body {
     margin-bottom: 1em;
 }
 
-#about-tile, #ex-title, #ed-tile, #proj-tile {
+#about-tile, #ed-tile, #proj-tile {
     width: 100%;
     padding: 20px;
     background-color: #Ee1d8cf;
