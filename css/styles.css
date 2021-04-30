@@ -42,17 +42,17 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 2px 2px 2px #fffafa;
+    text-shadow: 1px 1px 1px #F6F0EB;
 }
 
 #nav-list {
-    background-color: #F6F0EB;
+    background-color: #373741;
 }
 
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #d4af37;
+    color: #373741;
     font-size: 1.6em;
 }
 
